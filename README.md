@@ -1,17 +1,23 @@
 # Depth Estimate and Focus Recory
 
-### Two kind of version system
+### Categories of depth estimation
 
-- Binocular version system
+- **Binocular version system**
 
-  - Stereo
+	- Stereo
 
-- Monocular version system
+- **Monocular version system**
 
-  - DFF
+	- Depth from Focus (DFF)
+	- Depth from Defocus (DFD)
 
-  - DFD
 
-  
+### Categories of depth estimation
+- **Active**
+	- Sending a controlled energy beem
+	- Detection of reflected energy
+- **Passive**
+	- Image-based
+
 
 
