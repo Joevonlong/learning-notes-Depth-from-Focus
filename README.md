@@ -1,2 +1,17 @@
-# learning-notes-Depth-from-Focus
-This is my learning notes of Depth from Focus 
+# Depth Estimate and Focus Recory
+
+### Two kind of version system
+
+- Binocular version system
+
+  - Stereo
+
+- Monocular version system
+
+  - DFF
+
+  - DFD
+
+  
+
+
