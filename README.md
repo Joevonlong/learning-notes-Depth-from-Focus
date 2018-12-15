@@ -20,4 +20,11 @@
 	- Image-based
 
 
+#### Binocular Version system
+
+![Geometric on Imaging](https://github.com/Joevonlong/learning-notes-Depth-from-Focus/blob/master/images/geometric%20on%20imaging.png?raw=true)
+
+#### Monocular version system
+
+##### Depth from Focus
 
